@@ -1,1 +1,1 @@
-# Conteúdo da formação em pythin developer da DIO e Introdução ao Python da Bookplay
+# Conteúdo da formação em python developer da DIO e Introdução ao Python da Bookplay
