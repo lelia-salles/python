@@ -1,0 +1,21 @@
+import datetime
+
+# Usando input para obter dados do usuário
+nome = input("Digite seu nome: ")
+idade = int(input("Digite sua idade: ")) # Conversão de tipos de dado
+
+# Usando eval para avaliar uma expressão
+expressao = input("Digite uma expressão matemática para calcular (por exemplo, 2+3*4): ")
+resultado = eval(expressao)  # Avaliando a expressão
+
+# Usando format para formatar strings
+mensagem_formatada = "Olá, {}! Você tem {} anos.".format(nome, idade)
+
+# Usando strftime para formatar datas
+data_atual = datetime.datetime.now()
+data_formatada = data_atual.strftime("%d/%m/%Y %H:%M:%S")  # Formata a data e hora atuais
+
+# Imprimindo os resultados
+print(mensagem_formatada)
+print("Resultado da expressão matemática: {}".format(resultado))
+print("Data e hora atuais formatadas: {}".format(data_formatada))
