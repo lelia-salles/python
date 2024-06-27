@@ -109,3 +109,5 @@ sys.getsizeof(): Retorna o tamanho de um objeto em bytes.
          |
 |   Conjuntos ``set``      |  Um conjunto vazio ocupa cerca de 224 bytes. Cada item adicional consome espaço adicional (semelhante ao de um dicionário).          |
 | Booleanos ``bool`` | Objetos booleanos (True e False) são singletons e compartilham a mesma instância. Cada um ocupa o mesmo espaço de um objeto inteiro (24 bytes). |
+
+<black>comando ``python`` no terminal do VSCode abre um terminal interativo, não há necessidade digitar print para alguns testes para prompt do computador digitar `` python nomeDoArquivo.py `` para executar no console <black>
