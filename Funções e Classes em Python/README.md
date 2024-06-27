@@ -1,0 +1,3 @@
+# Desafio Círculo 
+
+Modele e implemente em Python a abstração do elemento geométrico círculo como uma classe. Deseja-se que o círculo contenha informações de posicionamento no plano cartesiano (coordenadas não negativas no eixo x e y) dado por um ponto central, além do raio associado. Deve ser possível calcular a área do círculo, o seu diâmetro, o comprimento da circunferência e mudar a posição do círculo no plano cartesiano. Por fim, crie um objeto a partir da classe e teste o funcionamento dos métodos implementados.
