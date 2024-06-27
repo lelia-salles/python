@@ -7,3 +7,5 @@ minutos = segundos_restantes // 60 # divisão inteira
 segundos_restantes_final = segundos_restantes % 60 # restp da divisão
 
 print (horas, 'horas', minutos, 'minutos e ', segundos_restantes_final, 'segundos')
+
+# continuar para número de dias
