@@ -2,7 +2,7 @@
 
 * Operações aritiméticas básicas
 * Comandos de entrada e saída
-* Conhecendo linguagem de programação Pythin
+* Conhecendo linguagem de programação Python
 * Funções e classes em python
 * Teste calculadora de mes
 * tipo de dados e variáveis
