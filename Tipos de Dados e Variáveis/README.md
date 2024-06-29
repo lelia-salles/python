@@ -7,6 +7,5 @@ Para realização da tarefa, foi sugerido que você organizasse uma base de dado
 Veja a seguir o formulário:
 
 |Nome|Endereço|Admissão|Área de Atuação| Carga Horária Diária|Carga Horária Semanal| Valor pago por hora aula| Dias da Semana|Dias do mês| Custo Semanal| Custo Mensal|
-|----|---------|_------|---------------|---------------------|---------------------|--------------------------|--------------------------|---------------|-------------|
-|     |         |       |               |                     |                     |                          |                          |               |             |
+|----|---------|------|---------------|---------------------|---------------------|--------------------------|--------------------------|---------------|-------------|------------|
 
