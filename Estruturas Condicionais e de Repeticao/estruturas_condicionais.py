@@ -30,8 +30,8 @@ if opcao == 1:
     print("saque realizado com sucesso")
 elif opcao == 2:
     print("extrato")
-else:
-    sys.exit("opção inválida")
+else:    
+    SystemExit("opção inválida")
 
 
 
