@@ -33,7 +33,7 @@ elif opcao == 2:
 else:    
     SystemExit("opção inválida")
 
-
+ 
 
 # if aninhado
 # if ternário
