@@ -14,6 +14,25 @@ else:
     print("saldo insuficiente")
 
 # if/elif/else - compõe mais de dois desvios, mais de uma expressão verdadeira (if e elif), caso for falso, retorna o else
+opcao = int(input("informe a opção: 1 Sacar \n2 extrato: "))
+if opcao == 1:
+    valor = float(input("informe o valor do saque: "))
+elif opcao == 2:
+    print("extrato")
+else:
+    print("opção inválida")
+
+
+
+
+
+if opcao == 1:
+    print("saque realizado com sucesso")
+elif opcao == 2:
+    print("extrato")
+else:
+    sys.exit("opção inválida")
+
 
 
 # if aninhado
