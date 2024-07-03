@@ -8,3 +8,4 @@
 * tipo de dados e variáveis
 * trilha python DIO
 * indentação e blocos
+* estruturas condicionais e de repetição
