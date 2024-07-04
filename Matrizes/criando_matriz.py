@@ -40,7 +40,7 @@ print('\nGrupo de números da linha 2: ',matriz_numeros[2])
 print('\nGrupo de números da linha 0 e 1: ',matriz_numeros[0:2])
 
 #acessando intervalo de colunas
-print('\nGrupo de números da coluna 0 e 1: ',matriz_numeros[:,0:2])
+print('\nGrupo de números da coluna 0 e 1: ',matriz_numeros[0:1,0:2])
 
 #acessando intervalo de linhas e colunas
 print('\nGrupo de números da linha 0 e 1 e da coluna 0 e 1: ',matriz_numeros[0:2,0:2]) 
