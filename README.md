@@ -9,3 +9,4 @@
 * trilha python DIO
 * indentação e blocos
 * estruturas condicionais e de repetição
+* criação, acesso e operadores de matrizes
