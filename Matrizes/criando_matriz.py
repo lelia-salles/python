@@ -40,20 +40,60 @@ print('\nGrupo de números da linha 2: ',matriz_numeros[2])
 print('\nGrupo de números da linha 0 e 1: ',matriz_numeros[0:2])
 
 #acessando intervalo de colunas
-print('\nGrupo de números da coluna 0 e 1: ',matriz_numeros[0:1,0:2])
+print('\nGrupo de números da coluna 0 e 1: ',matriz_numeros[0:2])
 
-#acessando intervalo de linhas e colunas
-print('\nGrupo de números da linha 0 e 1 e da coluna 0 e 1: ',matriz_numeros[0:2,0:2]) 
+#imprime elemento da linha 0 e coluna 0
+print('\nElemento da linha 0 e coluna 0: ',matriz_numeros[0][0])
+
+#imprime elemento da linha 1 e coluna 1
+print('\nElemento da linha 1 e coluna 1: ',matriz_numeros[1][1])
+
+#imprime elemento da linha 2 e coluna 2
+print('\nElemento da linha 2 e coluna 2: ',matriz_numeros[2][2])
+
+#imprime elemento da linha 0 e coluna 1
+print('\nElemento da linha 0 e coluna 1: ',matriz_numeros[0][1])
+
+#imprime elemento da linha 1 e coluna 0
+print('\nElemento da linha 1 e coluna 0: ',matriz_numeros[1][0])
+
+#imprime elemento da linha 2 e coluna 0
+print('\nElemento da linha 2 e coluna 0: ',matriz_numeros[2][0])
+
+#imprime elemento da linha 0 e coluna 2
+print('\nElemento da linha 0 e coluna 2: ',matriz_numeros[0][2])
+
+#imprime elemento da linha 1 e coluna 2
+print('\nElemento da linha 1 e coluna 2: ',matriz_numeros[1][2])
+
+#imprime elemento da linha 2 e coluna 1
+print('\nElemento da linha 2 e coluna 1: ',matriz_numeros[2][1])
+
+#imprime elemento da linha 2 e coluna 3
+print('\nElemento da linha 2 e coluna 3: ',matriz_numeros[2][3])
+
+#imprime elemento da linha 0 e coluna 3
+print('\nElemento da linha 0 e coluna 3: ',matriz_numeros[0][3])
+
+#imprime elemento da linha 1 e coluna 3
+print('\nElemento da linha 1 e coluna 3: ',matriz_numeros[1][3])
+
+#imprime elemento da linha 0 e coluna 2
+print('\nElemento da linha 0 e coluna 2: ',matriz_numeros[0][2])
+
+#imprime elemento da linha 1 e coluna 2
+print('\nElemento da linha 1 e coluna 2: ',matriz_numeros[1][2])
 
 #modificando uma linha
 matriz_numeros[0] = [1, 2, 3, 4]
 print('\nGrupo de números da linha 0: ',matriz_numeros[0])
 
 #modificando uma coluna
-matriz_numeros[:,0] = [1, 2, 3, 4]
-print('\nGrupo de números da coluna 0: ',matriz_numeros[:,0])
+matriz_numeros[0] = [1, 2, 3, 4]
+print('\nGrupo de números da coluna 0: ',matriz_numeros[0])
 
-#modificando uma linha e coluna
-matriz_numeros[0,0] = 1
-print('\nGrupo de números da linha 0 e coluna 0: ',matriz_numeros[0,0])
+#modificando um elemento
+matriz_numeros[0][0] = 1
+print('\nGrupo de números da linha 0 e coluna 0: ',matriz_numeros[0][0])
+
 
