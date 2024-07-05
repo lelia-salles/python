@@ -1,3 +1,4 @@
+#original em trilha python dio
 opcao = -1
 
 while opcao != 0:
