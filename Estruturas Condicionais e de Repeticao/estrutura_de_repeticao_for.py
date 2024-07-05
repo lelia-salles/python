@@ -1,3 +1,4 @@
+#original trilha python dio
 texto = input("Informe um texto: ")
 VOGAIS = "AEIOU"
 
@@ -14,4 +15,3 @@ else:
 for numero in range(0, 51, 5):
     print(numero, end=" ")
 
-    
