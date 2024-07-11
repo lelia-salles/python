@@ -1,4 +1,4 @@
-# Reúne estudos básicos de Python do curso Introdução ao Python da Bookplay e Python Básico da DIO
+# Reúne estudos básicos de Python do curso de Extensão Introdução ao Python da Bookplay e Python Básico da DIO
 
 * Operações aritiméticas básicas
 * Comandos de entrada e saída
