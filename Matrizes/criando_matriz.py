@@ -1,7 +1,7 @@
 """
 matriz é uma lista de listas
 """
-# exemplo 1
+# exemplo 1 - matriz de números
 matriz = [[1, 2, 3], [4, 5, 6]]
 
 print(matriz[0])
@@ -9,7 +9,7 @@ print(matriz[0][0])
 print(matriz[1][1])
 
 
-# exemlo 2
+# exemplo 2 - matriz mista com diferentes tipos de dados
 matriz_pessoa = [['João', 22, 345768425485],['Maria', 44, 323456789012],['Pedro', 33, 345678901234]]
 print(matriz_pessoa)
 print(matriz_pessoa[0])
