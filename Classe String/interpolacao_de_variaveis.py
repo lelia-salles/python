@@ -58,16 +58,6 @@ frase = f'Olá, meu nome é {nome}, tenho {idade} anos e minha altura é {altura
 
 print(frase)  # Saída: Olá, meu nome é Guilherme, tenho 30 anos e minha altura é 1.80 metros
 
-#exemplo 7 - Método f-string - com formatação
-nome = 'Guilherme'
-idade = 30
-altura = 1.80
-
-frase = f'Olá, meu nome é {nome}, tenho {idade} anos e minha altura é {altura:.2f} metros.' -
-
-
-
-
 
 #exemplo 3 - Método f-string -
 nome = 'Guilherme'
